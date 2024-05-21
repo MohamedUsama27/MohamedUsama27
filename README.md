@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Usama</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedusama27&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedusama27" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Know about me [https://mohamedusama.netlify.app](https://mohamedusama.netlify.app)
 
-- ⚡ Fun fact **NASA genuinely faked part of the Moon landing**
+- ⚡ Fun fact **NASA genuinely faked part of the Moon landing🌚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
